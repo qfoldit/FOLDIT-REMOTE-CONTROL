@@ -1,34 +1,19 @@
-qFoldIT Open Software License
+MIXED-LICENSE NOTICE
 
-Copyright (c) 2026 qFoldIT
+This repository contains historical Foldit/upstream-derived material as well as
+qFoldIT-original additions. This file does not relicense third-party or upstream
+materials.
 
-This software is released as open-source software under the MIT License, with the
-additional attribution requirement below.
+UPSTREAM / THIRD-PARTY MATERIALS
+Original or upstream-derived files remain governed by their applicable upstream
+copyrights and licenses. Users must inspect the provenance and license of each
+component before redistribution or derivative use.
 
-MIT License
+QFOLDIT-ORIGINAL ADDITIONS
+All original qFoldIT code and documentation added to this repository on or after
+2026-08-23, unless a file states otherwise, are licensed under GNU Affero General
+Public License v3.0 with the qFoldIT visible-attribution requirement described in
+`QFOLDIT-ADDITIONS-LICENSE.md`.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-Attribution Requirement: derivative distributions must retain a clear notice
-that the qFoldIT components originated from the qFoldIT project and must not
-misrepresent the origin of the qFoldIT components.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-Third-party code, dependencies, trademarks, datasets, scientific software and
-other externally originated materials remain subject to their respective
-licenses and terms.
+The qFoldIT license applies only to material that qFoldIT owns or is legally
+entitled to license. It does not supersede upstream licenses.
